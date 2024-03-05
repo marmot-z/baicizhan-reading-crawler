@@ -1,0 +1,19 @@
+{
+  "name": "baicizhan-reading-crawler",
+  "version": "1.0.0",
+  "description": "薄荷阅读训练营周刊爬虫",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "baicizhan-reading",
+    "crawler"
+  ],
+  "author": "zhangxunwei",
+  "license": "ISC",
+  "dependencies": {
+    "date-and-time": "^3.1.1",
+    "node-fetch": "^2.7.0"
+  }
+}

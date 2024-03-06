@@ -1,11 +1,8 @@
-// 读取输出的目录
-// 读取爬取的信息进行拼装
-
 const fs = require('fs');
 const https = require('https');
 const path = require('path');
 
-async function assembly(readingDatas, outputPath = './bin') {    
+function assembly(readingDatas, outputPath = './bin') {    
     if (fs.existsSync(outputPath)) {
         fs.rmSync(outputPath, {recursive: true, force: true});
     }
@@ -33,7 +30,7 @@ async function assembly(readingDatas, outputPath = './bin') {
                 fs.mkdirSync(chapterPath);
 
                 assemblyHtml(data, chapterPath);
-                await downloadAudios(data, chapterPath);
+                fs.writeFileSync(path.resolve(chapterPath, 'audio.js'), `const audioInfo = ${JSON.stringify(data.article_info.audio_info)};`);
             }
 
             assemblyMarkdown(bookName, groupByBookName[bookName], bookPath);
@@ -45,25 +42,47 @@ const htmlTemplate = `
     <html lang="zh-CN">
         <head>
             <meta charset="utf-8">
+            <title>$title</title>
             <link href="../../../../assets/bootstrap-5.0.2-dist/css/bootstrap.min.css" rel="stylesheet">
+            <link href="../../../../assets/bootstrap-5.0.2-dist/css/bootstrap.min.css.map" rel="stylesheet">
+            <style type="text/css">
+                .p-active {
+                    font-weight: bold;
+                    color: #198754;
+                }
+            </style>
         </head>
         <body>
             <div class="container">
                 <div class="row">
-                    <div class="col"></div>
+                    <div class="col">
+                        <img id="previousChapterButton" src="../../../../assets/bootstrap-5.0.2-dist/icons/arrow-left-square.svg"                             
+                            style="position: sticky; top: 40%; width: 32; height: 32; cursor: pointer;">
+                    </div>
                     <div class="col-8">
                         <br> 
                         <blockquote class="blockquote">
                             <p class="mb-0" style="font-size: medium;">$previous</p>
                         </blockquote>
-                        <hr>
-                        <br>                          
+                        <hr>                                           
+                        <audio preload="auto" src="$audioSrc"></audio>                          
+                        <br> 
                         <div>$sentences</div>
                     </div>
-                    <div class="col"></div>
+                    <div class="col">
+                        <img id="nextChapterButton" src="../../../../assets/bootstrap-5.0.2-dist/icons/arrow-right-square.svg" 
+                            style="position: sticky; top: 40%; float:right; width: 32; height: 32; cursor: pointer;">
+                    </div>
                 </div>
             </div>
-        </body>
+        </body>        
+        <script>
+            const currentChapter = $currentChapter, totalChapter = $totalChapter;   
+        </script>
+        <script src="./audio.js"></script>        
+        <script src="../../../../assets/jquery-3.3.1/jquery-3.3.1.slim.min.js"></script>        
+        <script src="../../../../assets/audioplayer/audio.min.js"></script>
+        <script src="../../../../assets/view.js"></script>
     </html>
 `;
 
@@ -72,7 +91,11 @@ function assemblyHtml(data, parentPath) {
                             .map(sentence => `<p class="text-left">${sentence.sentence}</p>`)
                             .join('\n');
     const html = htmlTemplate.replace('$previous', data.article_info.previous)
-                    .replace('$sentences', sentencesHtml);
+                    .replace('$sentences', sentencesHtml)
+                    .replace('$title', `${data.book_name} ${data.article_info.article_title}`)
+                    .replace('$currentChapter', `${data.current_chapter}`)
+                    .replace('$totalChapter', `${data.total_chapter}`)
+                    .replace('$audioSrc', `https:${data.article_info.audio_info.audio_url}`);
     const indexHtmlPath = path.resolve(parentPath, 'index.html');
 
     fs.writeFileSync(indexHtmlPath, html);

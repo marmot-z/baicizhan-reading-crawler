@@ -1,8 +1,3 @@
-// 爬取：
-// 1，获取当前训练营信息
-// 2，获取当前阅读数据信息以及时间周期
-// 3，获取对应章节信息，并且保存到当前库中
-
 const fetch = require('node-fetch');
 const date = require('date-and-time');
 

@@ -1,4 +1,5 @@
 const fs = require('fs');
+const path = require('path');
 const Crawler = require('./crawler');
 const assembly = require('./assembly');
 
@@ -9,6 +10,8 @@ const assembly = require('./assembly');
     const outputPath = './bin';
 
     assembly(readingDatas, outputPath);
+
+    fs.writeFileSync(path.resolve(outputPath, 'raw.json'), JSON.stringify(readingDatas));
 }) ();
 
 function loadMockData() {

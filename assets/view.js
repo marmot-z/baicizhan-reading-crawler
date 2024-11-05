@@ -8,7 +8,23 @@ window.onload = () => {
     if (currentChapter < totalChapter) {
         document.querySelector('#nextChapterButton').onclick = () => window.location.href = `../chapter-${currentChapter+1}/index.html`;
     }
-    
+
+    document.addEventListener('keydown', (e) => {
+        e.preventDefault();
+
+        let $pausePlayBtn = $('div.ppq-audio-player > div.play-pause-btn');
+        let audio = document.querySelector('div.ppq-audio-player > audio');
+
+        if (e.code === 'Space') {
+            $pausePlayBtn.click();
+        } else if (e.code === 'ArrowRight') {
+            if (audio.currentTime < audioInfo.time_list[audioInfo.time_list.length - 1]) {
+                audio.currentTime += 5;
+            }
+        } else if (e.code === 'ArrowLeft') {
+            audio.currentTime = Math.max(0, audio.currentTime - 5);
+        }
+    });
 };
 
 function syncAudioTextProcess(currentTime) {

@@ -3737,3 +3737,1249 @@ Then she quickly put the rest of the food back into the basket, gave it back to 
 “Go to bed this instant,” she said.
 
 And she shut the door behind herself and poor Ermengarde, and left Sara standing quite alone.
+<hr>
+The dream was quite at an end.
+
+The table was left empty, and the golden plates and beautiful napkins were changed back into old handkerchiefs and pieces of paper.
+
+Emily was sitting with her back against the wall.
+
+Sara saw her, and went and picked her up with shaking hands.
+
+“There isn’t any meal left, Emily,” Sara said.
+
+“And there isn’t any princess. There is nothing left but the prisoners in the Bastille.”
+
+And she sat down and hid her face.
+
+What would have happened if she had not hidden her face just then, and if she had chanced to look up at the skylight at that moment, I do not know.
+
+Perhaps the end of this chapter might have been quite different.
+
+If she had looked at the skylight, she would certainly have been surprised by what she would have seen.
+
+She would have seen exactly the same face pressed against the glass.
+
+It was looking in at her as it had looked in earlier in the evening when she had been talking to Ermengarde.
+
+But she did not look up.
+
+She sat with her little black head in her arms for some time.
+
+She always sat like that when she was trying to bear something in silence.
+
+Then she got up and went slowly to the bed.
+
+“I can’t pretend anything else—while I am awake,” she said.
+
+“There wouldn’t be any use in trying.
+
+If I go to sleep, perhaps a dream will come and pretend for me.”
+
+She suddenly felt so tired—perhaps through want of food—that her eyes closed and she fell fast asleep.
+
+She did not know how long she slept.
+
+But she had been tired enough to sleep deeply—too deeply to be troubled by anything.
+
+When she awakened it was rather suddenly, and she did not know that any particular thing had called her out of her sleep.
+
+The truth was, however, that it was a sound which had called her back—a real sound.
+
+It was the click of the skylight as it closed after a white figure went through it and hid close by.
+
+It was just near enough to see what happened in the attic, but not near enough to be seen.
+
+At first she did not open her eyes.
+
+She felt too sleepy and—strangely enough—too warm and comfortable.
+
+She was so warm and comfortable, indeed, that she did not believe she was really awake.
+
+It felt like a lovely dream.
+
+“What a nice dream!” she whispered.
+
+“I feel quite warm. I—don’t—want—to—wake—up.”
+
+Of course it was a dream.
+
+She felt as if warm, fine bedclothes( 卧具 ) were covering her.
+
+When she put out her hand, it touched something exactly like a very soft and warm blanket.
+
+She must not awaken from this delight—she must be quite still and make it last.
+
+But she could not—even though she kept her eyes closed tightly, she could not. Something was forcing her to awaken—something in the room.
+
+It was a sense of light, and a sound—the sound of a strong little fire.
+
+“Oh, I am awakening,” she said sadly.
+
+“I can’t help it—I can’t.”
+
+Her eyes opened even though she did not want them to.
+
+And then she actually smiled—for what she saw she had never seen in the attic before, and knew she never should see.
+
+“Oh, I haven’t awakened,” she whispered, rising on her arm to look all about her.
+
+“I am dreaming yet.”
+
+She knew it must be a dream, for if she were awake such things could not—could not be.
+
+Do you wonder why she felt sure she had not come back to earth?
+
+This is what she saw.
+
+In the fireplace there was a warm fire.
+
+On the hob( 铁架 ) was a little kettle( 壶 ) boiling. Spread upon the floor was a thick, warm dark red carpet.
+
+Before the fire there was a chair, with pillows on it.
+
+By the chair stood a small table, covered with a white cloth, and spread with small covered dishes, a cup, a saucer( 茶托 ), and a teapot( 茶壶 ) upon it.
+
+On the bed were new warm blankets; at the foot lay a silk robe( 长袍 ), a pair of warm slippers( 拖鞋 ), and some books.
+
+The room of her dream seemed changed into fairyland( 仙境 )—and it was filled with warm light, for a bright lamp stood on the table covered with a pink shade.
+
+She sat up, resting on her arm, and her breathing became short and fast.
+
+“It does not—disappear,” she said.
+
+“Oh, I never had such a dream before.”
+
+She did not want to move, but at last she pushed the blankets away, and put her feet on the floor with a wide smile.
+
+“I am dreaming—I am getting out of bed,” she heard her own voice say.
+
+And then, as she stood up in the middle of it all, turning slowly from side to side—“I am dreaming it stays—real!
+
+I’m dreaming it feels real.
+
+It’s magical—or I’m magical.
+
+I only think I see it all.”
+
+Her words began to hurry themselves.
+
+“If I can only keep on thinking it,” she cried, “I don’t care! I don’t care!”
+
+She stood a moment longer, and then cried out again.
+
+“Oh, it isn’t true!” she said.
+
+“It can’t be true! But oh, how true it seems!”
+<hr>
+The warm fire drew her to it.
+
+She sat down and held out her hands close to it—so close that the heat made her start back.
+
+“A fire I only dreamed wouldn’t be hot,” she cried.
+
+She sprang up, touched the table, the dishes, the carpet; she went to the bed and touched the blankets.
+
+She took up the soft robe and held it to her face.
+
+“It’s warm. It’s soft!” she almost cried.
+
+“It’s real. It must be!”
+
+She threw it over her shoulders, and put her feet into the slippers.
+
+“They are real, too. It’s all real!” she cried.
+
+“I am not—I am not dreaming!”
+
+She ran to the books and opened the one which lay upon the top.
+
+Something was written on the first page—just a few words, and they were these:
+
+“To the little girl in the attic. From a friend.”
+
+When she saw that—wasn’t it a strange thing for her to do—she put her face down upon the page and started to cry.
+
+“I don’t know who it is,” she said, “but somebody cares for me a little. I have a friend.”
+
+She took her candle and stole out of her own room and into Becky’s, and stood by her bedside.
+
+“Becky, Becky!” she whispered as loudly as she could risk. “Wake up!”
+
+When Becky wakened, she sat up.
+
+Her face was still red from crying.
+
+Beside her stood a little figure in a beautiful silk robe.
+
+The face she saw was a shining, wonderful thing.
+
+The Princess Sara—as she remembered her—stood at her very bedside, holding a candle in her hand.
+
+“Come,” she said. “Oh, Becky, come!”
+
+Becky was too frightened to speak.
+
+She simply got up and followed her, with her mouth and eyes open, and without a word.
+
+They crossed into her room.
+
+Sara shut the door gently and drew her into the warm, shining middle of things which made her hungry senses disappear.
+
+“It’s true! It’s true!” she cried.
+
+“I’ve touched them all.
+
+They are as real as we are.
+
+The Magic has come and done it,
+
+Becky, while we were asleep—the Magic that won’t let those worst things ever quite happen.”
+
+Imagine, if you can, what the rest of the evening was like.
+
+How they sat by the warm fire.
+
+How they found rich, hot soup in the dishes, and sandwiches and toast and muffins( 小松饼 ) enough for both of them.
+
+The tea was so delicious that it was not necessary to pretend that it was anything but tea.
+
+They were warm and full-fed and happy.
+
+“Do you think,” Becky asked once, in a whisper, “do you think it could disappear, miss?
+
+Hadn’t we better be quick?”
+
+And she quickly pushed her sandwich into her mouth.
+
+“No, it won’t disappear,” said Sara.
+
+“I am eating this muffin, and I can taste it.
+
+You never really eat things in dreams.
+
+You only think you are going to eat them.”
+
+Their sleepy comfort was a heavenly thing.
+
+It was the sleep of happy, well fed( 喂养 ) childhood.
+
+News travels fast in schools.
+
+It was quite well known in the morning that Sara Crewe was in trouble.
+
+Ermengarde was also under punishment.
+
+Becky would have been kicked out of the house, except Miss Minchin could not easily find another child helpless enough to work for so few cents a week.
+
+Miss Minchin saw Sara for the first time when Sara entered the classroom to hear the little French class do its lessons.
+
+And Sara came in with a springing step and color in her cheeks.
+
+It was the most surprising thing Miss Minchin had ever known.
+
+It gave her quite a shock.
+
+What could such a thing mean?
+
+She called her at once to her desk.
+
+“You do not look as if you realize that you are in trouble,” she said.
+
+Imagine a child—or even a grown-up—has been well fed, gone to sleep in the middle of a fairy story, and has wakened to find it real.
+
+She then cannot be unhappy or even look as if she were.
+
+Miss Minchin was almost struck silent by the look of Sara’s eyes when she made her perfectly respectful answer.
+
+“I beg your pardon, Miss Minchin,” Sara said; “I know that I am in trouble.”
+
+“Do not forget it. And remember you are to have no food today.”
+
+“Yes, Miss Minchin,” Sara answered.
+
+But as she turned away, she thought, “If the Magic had not saved me just in time, how terrible it would have been!”
+
+Sara had decided that the wonders which had happened must be kept a secret.
+
+If Miss Minchin should choose to come up to the attic again, of course all would be discovered.
+
+But it did not seem likely that she would do so for some time at least, unless she thought something strange was going on.
+
+“But whatever happens,” Sara kept saying to herself all day—“somewhere in the world there is a kind person who is my friend.”
+
+The weather was even worse this day than it had been the day before—wetter, muddier, colder.
+
+There were more errands to be done, the cook was more disagreeable, and, knowing that Sara was in trouble, she was more cruel.
+
+But Sara’s supper of the night before had given her strength, and she knew that she should sleep well and warmly.
+
+It was quite late when she was at last allowed to go upstairs.
+
+When she reached the top flight of stairs and stood before the attic door, her heart beat rather fast.
+
+“Of course it might all have been taken away,” she whispered, trying to be brave.
+
+She pushed the door open and went in.
+
+Once inside, she shut the door, and stood with her back against it, looking from side to side in wonder.
+<hr>
+The Magic had been there again.
+
+It really had, and it had done even more than before.
+
+The fire was shining, more than ever.
+
+A number of new things had been brought into the attic.
+
+Upon the low table, another supper stood—this time with cups and plates for Becky as well as herself.
+
+All the ugly things which could be covered with cloth had been hidden and made to look quite pretty.
+
+Some materials of rich colors had been hung up on the wall with little nails.
+
+Some bright fans were pinned up, and there were several pillows, big enough to use as seats.
+
+A wooden box was covered with a carpet, and some pillows lay on it, so that it looked like a sofa.
+
+Sara slowly sat down and looked and looked again.
+
+“It is exactly like something fairy come true,” she said.
+
+“And to think I used to pretend and pretend and wish there were fairies( 精灵 )!
+
+The one thing I always wanted was to see a fairy story come true.
+
+I am living in a fairy story.”
+
+From that time life became more wonderful day by day.
+
+The fairy story continued.
+
+Almost every day something new was done.
+
+Some new comfort appeared each time Sara opened the door at night, until the attic was a beautiful little room.
+
+When Sara went downstairs in the morning, the remains of the supper were on the table.
+
+When she returned to the attic in the evening, the magician had taken them away and left another nice little meal.
+
+The comfort and happiness she enjoyed were making her stronger.
+
+If she came home from her errands tired and hungry, she knew she would soon be warm and well fed.
+
+In a very short time she began to look less thin.
+
+“Sara Crewe looks wonderfully well,” Miss Minchin said with annoyance to her sister.
+
+“Yes,” answered Miss Amelia.
+
+“She is absolutely fattening. Before she looked like a little starved( 挨饿的 ) bird.”
+
+“Starved!” cried Miss Minchin, angrily.
+
+“Why should she look starved? She always had plenty to eat!”
+
+“Of—of course,” agreed Miss Amelia, believing that she had, as usual, said the wrong thing.
+
+Even Becky was beginning to look more healthy and less frightened.
+
+She could not help it. She had her share in the secret fairy story, too.
+
+The Bastille had disappeared, the prisoners no longer existed.
+
+Then another wonderful thing happened.
+
+A man came to the door and left several parcels.
+
+All were addressed, “To the Little Girl in the right-hand attic.”
+
+Sara herself was sent to open the door and take them in.
+
+She laid the two largest parcels on the hall table, and was looking at the address.
+
+Miss Minchin came down the stairs and saw her.
+
+“Take the things to the young lady to whom they belong,” she said strictly.
+
+“Don’t stand there looking at them.”
+
+“They belong to me,” answered Sara, quietly.
+
+“To you?” asked Miss Minchin.
+
+“What do you mean?”
+
+“I don’t know where they come from,” said Sara, “but they are addressed to me. I sleep in the right-hand attic. Becky has the other one.”
+
+“What is in them?” Miss Minchin demanded.
+
+“I don’t know,” replied Sara.
+
+“Open them,” she ordered.
+
+Sara did as she was told.
+
+When the packages were unfolded, Miss Minchin saw pretty and comfortable clothing of different kinds: shoes, stockings, and gloves, and a warm and beautiful coat.
+
+Miss Minchin was quite upset.
+
+Could it be that she had made a mistake, after all?
+
+Could the poor child have some previously unknown relation, who had suddenly found her, and chose to provide for her in this strange way?
+
+She felt very uncertain, and she gave a side look at Sara.
+
+“Well,” she said, in a voice which she had never used since the little girl lost her father, “someone is very kind to you.
+
+As the things have been sent, you may as well go and put them on and look respectable.
+
+After you are dressed you may come downstairs and learn your lessons in the classroom.
+
+You need not go out on any more errands today.”
+
+About half an hour later, when the classroom door opened and Sara walked in, the entire school was silent.
+
+“My word!” cried Jessie, to Lavinia.
+
+“Look at the Princess Sara!”
+
+Everybody was looking, and when Lavinia looked she turned quite red.
+
+It was the Princess Sara indeed.
+
+At least, since the days when she had been a princess, Sara had never looked as she did now.
+
+She was dressed in the kind of dress Lavinia had wanted.
+
+“Perhaps the diamond mines have suddenly appeared again,” said Lavinia, unkindly.
+
+“Sara,” broke in Miss Minchin’s deep voice, “come and sit here.”
+
+And while the whole classroom looked, and hardly made any effort to hide its excited curiosity, Sara went to her old seat, and started reading.
+
+That night, when she went to her room, she and Becky eat their supper.
+
+She sat and looked at the fire seriously for a long time.
+
+“Are you making something up in your head, miss?” Becky asked.
+
+When Sara sat in silence and looked into the coals with dreaming eyes, it generally meant that she was making a new story.
+
+But this time she was not, and she shook her head.
+
+“No,” she answered.
+
+“I am wondering what I ought to do.”
+
+“I can’t help thinking about my friend,” Sara explained.
+
+“If he wants to keep himself a secret, it would be rude to try and find out who he is.
+
+But I do so want him to know how thankful I am to him—and how happy he has made me.
+
+I wish—I do wish—”
+
+Her eyes at that instant fell upon something standing on a table in a corner.
+
+It was a little writing-case fitted with paper and envelopes and pens and ink.
+
+“Oh,” she said, “why did I not think of that before?”
+<hr>
+She rose to get the case and brought it back to the fire.
+
+“I can write to him,” she said joyfully, “and leave it on the table.
+
+Then perhaps the person who takes the things away will take it, too.
+
+He won’t mind my thanking him, I feel sure.”
+
+So she wrote a note. This is what she said:
+
+I hope you will not think it is improper that I should write this note to you when you wish to keep yourself a secret.
+
+I only want to thank you for being so kind to me and making everything like a fairy story.
+
+I am so thankful to you, and I am so happy—and so is Becky.
+
+We used to be so lonely and cold and hungry.
+
+Please let me say just these words.
+
+Thank you—thank you—thank you!
+
+The Little Girl in the Attic.
+
+The next morning she left this on the little table.
+
+In the evening it had been taken away with the other things.
+
+So she knew the Magician had received it, and she was happier for the thought.
+
+She was reading one of her new books to Becky just before they went to sleep, when she heard a sound at the skylight.
+
+“Something’s there, miss,” Becky whispered.
+
+“Yes,” said Sara, slowly.
+
+“It sounds—rather like a cat—trying to get in.”
+
+She left her chair and went to the skylight.
+
+It was a strange little sound she heard—like a soft scratching( 刮擦 ).
+
+She suddenly remembered a little visitor who had made his way into the attic once before.
+
+She had seen him that very afternoon, sitting on a table before a window in the Indian gentleman’s house.
+
+“Suppose,” she whispered, “just suppose it was the monkey who got away again. Oh, I wish it was!”
+
+She climbed on a chair, very carefully raised the skylight, and looked out.
+
+It had been snowing all day.
+
+On the snow, quite near her, sat a tiny, shaking figure, with a small black face.
+
+“It is the monkey,” she cried out.
+
+“He has escaped from the Lascar’s attic, and he saw the light.”
+
+Becky ran to her side.
+
+“Are you going to let him in, miss?” she said.
+
+“Yes,” Sara answered joyfully.
+
+“It’s too cold for monkeys to be out. I’ll try to draw him in.”
+
+She put a hand out carefully, speaking in an inviting voice.
+
+“Come along, monkey dear,” she said.
+
+“I won’t hurt you.”
+
+He let her lift him through the skylight.
+
+When he found himself in her arms, he curled up to her breast and looked up into her face.
+
+“What shall you do with him?” Becky asked.
+
+“I shall let him sleep with me tonight, and then take him back to the Indian gentleman tomorrow.”
+
+And when she went to bed she made him a little bed at her feet.
+
+He lay down and slept there as if he were a baby and much pleased with his quarters( 住处 ).
+
+The next afternoon Mr. Carmichael went to visit Mr. Carrisford in his library.
+
+“What news?” Mr. Carrisford asked.
+
+“The child the Russian people adopted?”
+
+“She is not the child we are looking for,” was Mr. Carmichael’s answer.
+
+“She is much younger than Captain Crewe’s little girl.
+
+Her name is Emily Carew.
+
+The Russians were able to give me all the information.”
+
+How tired and miserable( 痛苦的 ) the Indian gentleman looked!
+
+“Then the search has to be begun over again,” he said.
+
+“Come, come,” Carmichael said in his cheery voice; “we’ll find her sooner or later.”
+
+“We must begin at once. No time must be lost,” Mr. Carrisford worried.
+
+“Do you have any new suggestion to make—any at all?”
+
+Mr. Carmichael felt rather restless, and he began to walk around the room with a thoughtful face.
+
+“We have searched the schools in Paris.
+
+Let us give up Paris and begin in London.”
+
+“There are schools enough in London,” said Mr. Carrisford.
+
+Then he slightly started, awakened by a recollection.
+
+“By the way, there is one next door.”
+
+“Then we will begin there.
+
+We cannot begin nearer than next door.”
+
+Perhaps the Magic was at work again at that very moment.
+
+What was it that brought Ram Dass into the room—even as his master spoke—with a touch of excitement in his dark, shining eyes?
+
+“Sahib( 阁下 ),” Ram Dass said, “the child herself has come—the child the sahib felt pity for.
+
+She brings back the monkey who had again run away to her attic.
+
+I have asked her to remain.
+
+It was my thought that it would please the sahib to speak with her.”
+
+The Indian gentleman waved his hand to Ram Dass, and addressed him.
+
+“Yes, I should like to see her.
+
+Go and bring her in.”
+
+Then he turned to Mr. Carmichael.
+
+“While you have been away,” he explained, “I have been lonely.
+
+The days were so dark and long.
+
+Ram Dass told me of this child’s troubles, and together we invented a plan to help her.
+
+I suppose it was a childish thing to do, but it gave me something to plan and think of.”
+
+Then Sara came into the room, with the monkey in her arms.
+
+“Your monkey ran away again,” she said.
+
+“He came to my window last night, and I took him in because it was so cold.
+
+I would have brought him back if it had not been so late.
+
+I knew you were ill and might not like to be troubled.”
+
+The Indian gentleman’s sad eyes looked at her with curious interest.
+
+“That was very thoughtful of you,” he said.
+<hr>
+Sara looked toward Ram Dass, who stood near the door.
+
+“Shall I give him to the Lascar?” she asked.
+
+“How do you know he is a Lascar?” said the Indian gentleman, smiling a little.
+
+“Oh, I know Lascars,” Sara said, handing over the monkey.
+
+“I was born in India.”
+
+The Indian gentleman sat up so suddenly that she was for a moment quite surprised.
+
+“You were born in India,” he cried, “were you? Come here.”
+
+And he held out his hand.
+
+Sara went to him and laid her hand in his.
+
+She stood still, and her green-gray eyes met his wonderingly.
+
+Something seemed to be the matter with him.
+
+“You live next door?” he demanded.
+
+“Yes; I live at Miss Minchin’s school.”
+
+“But you are not one of her pupils?”
+
+Sara stopped a moment.
+
+“I don’t know exactly what I am,” she replied.
+
+“Why not?”
+
+“At first I was a pupil, but now—”
+
+“You were a pupil! What are you now?”
+
+“I sleep in the attic,” she said with a sad smile.
+
+“I run errands for the cook, and I teach the little ones their lessons.”
+
+“Question her, Carmichael,” said Mr. Carrisford, sitting back as if he had lost his strength.
+
+“I cannot.”
+
+The kind father of the Large Family spoke to her in a nice, encouraging voice.
+
+“What do you mean by ‘At first,’ my child?” he asked.
+
+“When I was first taken there by my papa.”
+
+“Where is your papa?”
+
+“He died,” said Sara, very quietly.
+
+“He lost all his money and there was none left for me.
+
+There was no one to take care of me or to pay Miss Minchin.”
+
+“How did your father lose his money?” the Indian gentleman broke in impatiently( 不耐地 ).
+
+“He did not lose it himself,” Sara answered, wondering still more each moment.
+
+“He had a friend he was very fond of.
+
+It was his friend who took his money.
+
+He trusted his friend too much.”
+
+The Indian gentleman’s breath came more quickly.
+
+“The friend might have meant to do no harm,” he said.
+
+“It might have happened through a mistake.”
+
+“The suffering was just as bad for my papa,” she said.
+
+“It killed him.”
+
+“What was your father’s name?” the Indian gentleman said. “Tell me.”
+
+“His name was Ralph Crewe,” Sara answered, feeling unsure.
+
+“Captain Crewe.”
+
+Ram Dass sprang to his master’s side.
+
+“Carmichael,” the sick man cried out, “it is the child—the child!”
+
+For a moment Sara thought he was going to die.
+
+Ram Dass poured out drops from a bottle, and held them to his lips.
+
+Sara stood near, trembling( 颤抖 ) a little.
+
+She looked in a confused way at Mr. Carmichael.
+
+“What child am I?” she asked in confusion.
+
+“He was your father’s friend,” Mr. Carmichael answered her.
+
+“Don’t be frightened.
+
+We have been looking for you for two years.”
+
+Sara put her hand up to her forehead, and her mouth shook.
+
+She spoke as if she were in a dream.
+
+“And I was at Miss Minchin’s all the while,” she half whispered, “just on the other side of the wall.”
+
+It was pretty Mrs. Carmichael who explained everything.
+
+She was sent for at once, and came across the square.
+
+She took Sara into her warm arms and made clear to her all that had happened.
+
+The excitement of the discovery had been almost dangerous to Mr. Carrisford in his weak condition.
+
+“Upon my word,” he said weakly to Mr. Carmichael, when it was suggested that the little girl should go into another room.
+
+“I feel as if I do not want to lose sight of her.”
+
+Sara could only think of one thing.
+
+“Was he,” she said, “was he the awful friend? Oh, do tell me!”
+
+“He was not awful, my dear,” Mrs. Carmichael answered.
+
+“He did not really lose your papa’s money.
+
+He only thought he had lost it.
+
+Because he loved your papa so much, his sadness made him so ill that for a time he was not in his right mind.
+
+He almost died of brain fever, and long before he began to get well again, your poor papa was dead.”
+
+“He believed you were in school in France.
+
+He has looked for you everywhere.
+
+When he saw you pass by, looking so sad and lonely, he did not dream that you were his friend’s poor child.
+
+Because you were a little girl, too, he was sorry for you, and wanted to make you happier.
+
+And he told Ram Dass to climb into your attic window and try to make you comfortable.”
+
+Sara gave a start of joy; her whole look changed.
+
+“Did Ram Dass bring the things?” she cried out.
+
+“Did he tell Ram Dass to do it? Did he make the dream that came true?”
+
+“Yes, my dear—yes! He is kind and good, and he was sorry for you, in honor of little lost Sara Crewe.”
+
+The library door opened and Mr. Carmichael appeared, calling Sara to him with a wave of his hand.
+
+“Mr. Carrisford is better already,” he said.
+
+“He wants you to come to him.”
+
+Sara did not wait.
+
+When the Indian gentleman looked at her as she entered, he saw that her face was all lit up.
+
+She stood before his chair, with her hands joined together against her breast.
+
+“You sent the things to me,” she said, in a joyful voice, “the beautiful things? You sent them!”
+
+“Yes, dear child, I did,” he answered her.
+
+“Then it is you who are my friend!” she said.
+
+And she dropped her face on his thin hand and kissed it again and again.
+<hr>
+“The man will be himself again in three weeks,” Mr. Carmichael said quietly to his wife.
+
+“Look at his face already.”
+
+In fact, he did look changed.
+
+He had new things to think of and plan for already.
+
+In the first place, there was Miss Minchin.
+
+She must be told of the change which had taken place in the fortunes of her pupil.
+
+Sara was not to return to the school.
+
+The Indian gentleman was very determined upon that point.
+
+She must remain where she was, and Mr. Carmichael should go and see Miss Minchin himself.
+
+“I am glad I need not go back,” said Sara.
+
+“She will be very angry. She does not like me, though perhaps it is my fault, because I do not like her.”
+
+But, strangely enough, Miss Minchin made it unnecessary for Mr. Carmichael to go to her.
+
+She came in search of her pupil herself.
+
+She had wanted Sara for something, and when she asked where Sara was, she had heard a very surprising thing.
+
+One of the housemaids had seen her steal out of the area with something hidden under her coat.
+
+She had also seen her go up the steps of the next door and enter the house.
+
+“What does she mean!” cried Miss Minchin.
+
+“She must have been in the house for two hours.
+
+I shall go and look into the matter.”
+
+Sara was sitting on a footstool close to Mr. Carrisford’s knee when Ram Dass announced the visitor’s arrival.
+
+Sara rose suddenly, and became rather pale, but Mr. Carrisford saw that she showed none of the ordinary signs of child fear.
+
+Miss Minchin entered the room with a serious manner.
+
+She was well dressed, and polite.
+
+“I am sorry to trouble Mr. Carrisford,” she said, “but I have explanations to make.
+
+I am Miss Minchin, the head of the Young Ladies’ School next door.”
+
+The Indian gentleman looked at her for a moment.
+
+He was a man who had naturally a rather hot temper( 脾气 ), and he did not wish it to get too much the better of him.
+
+“So you are Miss Minchin?” he said.
+
+“I am, sir.”
+
+“In that case,” the Indian gentleman replied, “you have arrived at the right time. My lawyer, Mr. Carmichael, was just on the point of going to see you.”
+
+Mr. Carmichael bowed slightly, and Miss Minchin looked from him to Mr. Carrisford in surprise.
+
+“Your lawyer!” she said.
+
+“I do not understand.
+
+I have come here because I have just discovered that you have been troubled by one of my pupils—a charity pupil.”
+
+She turned upon Sara.
+
+“Go home at once,” she commanded.
+
+“You shall be greatly punished. Go home at once.”
+
+The Indian gentleman drew Sara to his side and took her hand.
+
+“She is not going.”
+
+Miss Minchin felt as if she must be losing her senses.
+
+“Not going!” she repeated.
+
+“No,” said Mr. Carrisford.
+
+“She is not going home—if you give your house that name. Her home for the future will be with me.”
+
+Miss Minchin fell back in confusion.
+
+“With you, sir! What does this mean?”
+
+“Kindly explain the matter, Carmichael,” said the Indian gentleman.
+
+He made Sara sit down again, and held her hands in his—just like her papa would do.
+
+“Mr. Carrisford, madam,” Carmichael said, “was a close friend of the late Captain Crewe.
+
+He was his partner in certain large investments( 投资 ).
+
+The fortune which Captain Crewe supposed he had lost has been recovered, and is now in Mr. Carrisford’s hands.”
+
+“The fortune!” cried Miss Minchin, and she really lost her color as she said it.
+
+“Sara’s fortune!”
+
+“It is Sara’s fortune,” replied Mr. Carmichael, rather coldly.
+
+“Certain events have increased it enormously.
+
+The diamond mines have recovered themselves.”
+
+“The diamond mines!” Miss Minchin cried out.
+
+If this was true, nothing so awful, she felt, had ever happened to her since she was born.
+
+“The diamond mines,” Mr. Carmichael repeated.
+
+He could not help adding, with a little smile, “There are not many princesses, Miss Minchin, who are richer than your little charity pupil, Sara Crewe, will be.
+
+Mr. Carrisford has been searching for her for nearly two years; he has found her at last, and he will keep her.”
+
+Miss Minchin was not a clever woman.
+
+In her excitement she was silly enough to make one last effort to get back what she had lost through her foolishness( 愚蠢 ).
+
+“He found her under my care,” she argued.
+
+“But for me she should have starved in the streets.”
+
+Here the Indian gentleman lost his temper.
+
+“As to starving in the streets,” he said, “she might have starved more comfortably there than in your attic.”
+
+“Captain Crewe left her in my charge,” Miss Minchin argued.
+
+“She must return to it until she is of age.
+
+She must finish her education.
+
+The law will support my claim.”
+
+“Come, come, Miss Minchin,” Mr. Carmichael interrupted, “the law will do nothing of the sort.
+
+If Sara herself wishes to return to you, I should say Mr. Carrisford might not refuse.
+
+But that rests with Sara.”
+
+“Then,” said Miss Minchin, “I ask Sara.
+
+I have not spoiled you, perhaps,” she said awkwardly to the little girl, “but you know that your papa was pleased with your progress.
+
+And—ahem( 呃哼 )—I have always been fond of you.”
+
+Sara’s green-gray eyes fixed themselves on her with the quiet, clear look Miss Minchin particularly disliked.
+
+“Have you, Miss Minchin?” she said. “I did not know that.”
+
+Miss Minchin reddened.
+
+“You ought to have known it,” said she, “but children, unfortunately, never know what is best for them.
+
+Amelia and I always said you were the cleverest child in the school.
+
+Will you not do your duty to your poor papa and come home with me?”
+<hr>
+Sara took a step toward her and stood still.
+
+She was thinking of the day when she had been told that she belonged to nobody, and was in danger of being turned into the street.
+
+She was thinking of the cold, hungry hours she had spent alone with Emily and Melchisedec in the attic.
+
+She looked Miss Minchin firmly in the face.
+
+“You know why I will not go home with you, Miss Minchin,” she said; “you know quite well.”
+
+A hot redness showed itself on Miss Minchin’s angry face.
+
+“You do not have an easy charge,” she said to the Indian gentleman, as she turned to leave the room.
+
+“The child is neither truthful nor thankful. I suppose”—to Sara—“that you feel now that you are a princess again.”
+
+“I—tried not to be anything else,” she answered in a low voice—“even when I was coldest and hungriest—I always tried to be a princess.”
+
+“Now it will not be necessary to try,” said Miss Minchin, bitterly, as Ram Dass showed her out of the room.
+
+She returned home and, going to her sitting room, sent at once for Miss Amelia.
+
+When she had told her sister what had happened, the silly woman cried many tears.
+
+One of her unfortunate remarks almost caused her sister to bite her head entirely off, but it resulted in an unusual manner.
+
+“I’m not as clever as you, sister,” Amelia said, “and I am always afraid to say things to you for fear of making you angry.
+
+Perhaps if I were not so weak, it would be better for the school and for both of us.
+
+I must say I’ve often thought that the child was a good child.
+
+She would have paid you for any kindness you had shown her.
+
+But you didn’t show her any.
+
+The fact was, she was too clever for you, and you always disliked her for that reason.
+
+She used to see through us both—”
+
+“Amelia!” said her angry elder sister in surprise.
+
+“She did! She did!” Amelia cried.
+
+“She saw through us both.
+
+She saw that you were a hard-hearted woman.
+
+And I was a weak fool, while she behaved like a little princess even when she was a beggar.”
+
+And she began to laugh and cry both at once, and rock herself backward( 向后 ) and forward.
+
+“And now you’ve lost her,” she cried wildly.
+
+“Some other school will get her and her money.
+
+And if she were like any other child she’d tell how she’s been treated, and all our pupils would be taken away.
+
+We should be ruined.
+
+And it serves us right, but it serves you right more than it does me, for you are a hard woman, Maria Minchin, you’re a hard, selfish woman!”
+
+She was in danger of making so much noise with her crying that her sister had to give her salts to quiet her.
+
+And from that time forward, the elder Miss Minchin actually began to respect her sister and almost fear her.
+
+Amelia was evidently not quite so foolish as she looked, and could speak truths people did not want to hear.
+
+That evening, the pupils were together in the classroom, as was their custom before bed.
+
+Ermengarde came in with a letter in her hand and an expression of delighted excitement.
+
+“What is the matter?” cried two or three voices at once.
+
+“Is it anything to do with the row that has been going on?” said Lavinia, eagerly.
+
+“There has been such a row in Miss Minchin’s room, Miss Amelia has had something like a fit and has had to go to bed.”
+
+Ermengarde answered them slowly as if she were half awake.
+
+“I have just had this letter from Sara,” she said, holding it out to let them see what a long letter it was.
+
+“From Sara!” Every voice joined in that cry.
+
+“Where is she?” almost screamed Jessie.
+
+“Next door,” said Ermengarde, “with the Indian gentleman.”
+
+“Where? Where? Has she been sent away?
+
+Does Miss Minchin know? Was the row about that? Why did she write?
+
+Tell us! Tell us!”
+
+“There were diamond mines,” she said; “there were!”
+
+Open mouths and open eyes confronted( 正视 ) her.
+
+Until almost midnight the entire school crowded round Ermengarde in the classroom.
+
+They heard Ermengarde read and re-read the letter with a story which was quite as wonderful as any Sara herself had ever invented.
+
+Becky, who had heard it also, managed to go upstairs earlier than usual.
+
+She wanted to get away from people and go and look at the little magic room once more.
+
+She did not know what would happen to it.
+
+It would likely be taken away, and the attic would be empty again.
+
+She was glad for Sara, but she went up the last flight of stairs with tears in her eyes.
+
+There would be no fire tonight; no supper, and no princess sitting telling stories.
+
+She tried not to sob as she pushed the attic door open, and then she broke into a low cry.
+
+The fire was shining, the supper was waiting, and Ram Dass was standing smiling into her surprised face.
+
+“Miss sahib remembered,” he said.
+
+“She wished you to know the good fortune which has happened to her.
+
+Behold( 看看 ) a letter on the tray.
+
+She did not wish that you should go to sleep unhappy.
+
+The sahib asks you to come to him tomorrow.
+
+You are to be the maid of miss sahib.
+
+Tonight I take these things back over the roof.”
+
+And having said this with a smiling face, he made a little bow and went through the skylight again.
+
+There never were such friends as Sara and Mr. Carrisford became.
+
+Somehow, they seemed to suit each other in a wonderful way.
+
+The Indian gentleman had never had a companion he liked quite as much as he liked Sara.
+
+In a month’s time he was, as Mr. Carmichael had said he would be, a new man.
+<hr>
+One evening, Mr. Carrisford, looking up from his book, noticed that his companion had not moved for some time, but sat looking into the fire.
+
+“What are you thinking, Sara?” he asked.
+
+Sara looked up, with a bright color on her cheek.
+
+“I was remembering that hungry day, and a child I saw.”
+
+Then she told him the story of the bun shop, the fourpence she picked up out of the mud, and the child who was hungrier than herself.
+
+She told it quite simply, but the Indian gentleman was moved by her kindness.
+
+When she had finished, she added, “I was thinking I should like to do something.”
+
+“What was it?” said Mr. Carrisford, in a low tone.
+
+“You may do anything you like to do, princess.”
+
+“I was wondering,” said Sara—“you know, you say I have so much money—I was wondering if I could go to see the bun-woman.
+
+I could ask her to help the hungry children.
+
+On cold days, when they sit on the steps, or look in at the window, she could just call them in and give them something to eat.
+
+Then she might send the bills to me.
+
+Could I do that?”
+
+“You shall do it tomorrow morning,” said the Indian gentleman.
+
+“Thank you,” said Sara.
+
+“You see, I know what it is to be hungry, and it is very hard when one cannot even pretend it away.”
+
+The next morning, Miss Minchin, in looking out of her window, saw the things she perhaps least enjoyed seeing.
+
+The Indian gentleman’s carriage drew up before the door of the next house.
+
+Its owner and a little figure walked down the steps to get into it.
+
+The little figure was a familiar one, and reminded Miss Minchin of days in the past.
+
+It was followed by another as familiar—the sight of which she found very maddening.
+
+It was Becky, who always went with her young employer to her carriage, carrying wraps( 外衣 ) and belongings.
+
+Already Becky had a pink, round face.
+
+A little later the carriage drew up before the door of the baker’s shop, and the man and the child got out.
+
+When Sara entered the shop, the woman turned and looked at her from behind the counter.
+
+For a moment she looked at Sara very hard indeed, and then her kind face lighted up.
+
+“I’m sure that I remember you, miss,” she said. “And yet—”
+
+“Yes,” said Sara; “once you gave me six buns for fourpence, and—”
+
+“And you gave five of them to a beggar child,” the woman interrupted her.
+
+“I’ve always remembered it.”
+
+She turned around to the Indian gentleman and spoke her next words to him.
+
+“I beg your pardon, sir, but there’s not many young people that notices a hungry face, and I’ve thought of it many a time.
+
+Excuse me, miss,”—to Sara—“but you look healthier and—well, better than you did that—that—”
+
+“I am better, thank you,” said Sara.
+
+“And—I am much happier—and I have come to ask you to do something for me.”
+
+“Me, miss!” said the bun-woman, smiling cheerfully.
+
+“Why, bless you! Yes, miss. What can I do?”
+
+And then Sara, leaning on the counter, made her little request concerning the cold days and the hungry children and the buns.
+
+The woman listened with a surprised face.
+
+“Why, it’ll be a pleasure to me to do it,” she said.
+
+“I cannot afford to do much on my own account.
+
+But I’ve given away many a bit of bread since that wet afternoon, just thinking of you—and how hungry you looked.
+
+And yet you gave away your hot buns as if you were a princess.”
+
+The Indian gentleman smiled at this.
+
+Sara smiled a little, too, remembering what she had said to herself when she gave the buns to the child.
+
+“She looked so hungry,” she said.
+
+“She was even hungrier than I was.”
+
+“She was starving,” said the woman.
+
+“She’s told me about it many times.”
+
+“Oh, have you seen her since then?” asked Sara.
+
+“Do you know where she is?”
+
+“Yes, I do,” answered the woman, smiling more kindly than ever.
+
+“Why, she’s in that back room, miss, and has been there for a month.
+
+She’s a good, well-meaning girl, and such a help to me in the shop and in the kitchen.
+
+You’d hardly believe it, knowing how she’s lived.”
+
+She stepped to the door of the little back parlor and spoke, and the next minute a girl came out.
+
+And really it was the beggar child, clean and nicely clothed, and looking as if she had not been hungry for a long time.
+
+She looked shy, but she had a nice face, and the wild look had gone from her eyes.
+
+She knew Sara in an instant, and stood and looked at her as if she could never look enough.
+
+“You see,” said the woman, “I’ve given her a place and a home.
+
+She helps me, and behaves well, and is as thankful as a girl can be.
+
+Her name’s Anne.”
+
+The children stood and looked at each other for a few minutes.
+
+Then Sara took her hand and held it out across the counter.
+
+Anne took it, and they looked straight into each other’s eyes.
+
+“I am so glad,” Sara said.
+
+“And I have just thought of something.
+
+Perhaps your mistress( 女主人 ) will let you be the one to give the buns and bread to the children.
+
+Perhaps you would like to do it because you know what it is to be hungry, too.”
+
+“Yes, miss,” said the girl.
+
+And, somehow, Sara felt as if she understood her, though she said so little.
+
+Anne only stood still and looked, and looked after Sara as she went out of the shop with the Indian gentleman.
+
+Then they got into the carriage and drove away.
+
+THE END
